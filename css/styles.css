@@ -10,5 +10,9 @@ p.author {
 }
 
 p.important {
-  color: darkblue;
+  color: red;
+}
+
+p.important1 {
+  color:darkcyan;
 }
