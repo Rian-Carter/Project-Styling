@@ -1,13 +1,7 @@
-p.intro {
-  width: 50%;
-  font-style: italic;
+.important {
+  color: red;
 }
 
-h2.intro {
-  width: 25%;
-  font-style: normal;
-}
-
-img.intro {
-  orientation: center;
+.unimportant {
+  color: blue;
 }
